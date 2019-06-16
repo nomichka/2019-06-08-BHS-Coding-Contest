@@ -1,0 +1,6 @@
+5
+5 lions
+6 giraffes
+3 penguins
+4 hippopotamuses
+7 penguins
