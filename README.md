@@ -1,6 +1,6 @@
 # 2019-06-08 BHS Coding Contest
 
-My solutions to the contest problems.
+My solutions to the contest problems. I received 2nd in the contest.
 
 ## Coding Contest 
 https://teamscode.com/contests/spring-2019-bellevue-programming-contest/
